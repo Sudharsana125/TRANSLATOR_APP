@@ -31,7 +31,7 @@ A simple web application for text translation using MyMemory API.
 4. Use copy button or speaker icon for additional features
 
 ## API
-This app uses the free MyMemory Translation API (no key required)
+This app uses the (Gemini API)
 
 ## Author
 Sudharsana K
